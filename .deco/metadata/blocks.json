@@ -52,5 +52,9 @@
   "/.deco/blocks/Preview%20%2Fsections%2FSimpleTitle.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/SimpleTitle.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FHelloDecopilot.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/HelloDecopilot.tsx"
   }
 }
