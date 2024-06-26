@@ -1,10 +1,8 @@
-import type { RichText } from "apps/admin/widgets.ts";
-
 export interface Props {
   /**
    * @format rich-text
    */
-  title?: RichText;
+  title?: string;
 }
 
 export default function SimpleSection({ title = "Section Title" }: Props) {
